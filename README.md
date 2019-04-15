@@ -1,0 +1,2 @@
+# premitive
+premitive  Algorithm
